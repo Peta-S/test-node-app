@@ -1,15 +1,14 @@
 {
-  "name": "test",
+  "name": "test-backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "Test App",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
   },
-  "keywords": [],
-  "author": "",
+  "author": "Peta Stewart",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.17.1"
   }
 }
