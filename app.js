@@ -1,6 +1,6 @@
-import express from 'express'
-const app = express()
+const express = require('express')
 const port = 4080
+const app = express()
 
 app.get('/', (req, res) => {
   res.send("Peta's Test Homepage")
