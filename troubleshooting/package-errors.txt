@@ -1,0 +1,2 @@
+"type": "module" should not be used.
+Nodemon is a dependency for development and should not be used in your "start" script.
